@@ -30,6 +30,11 @@ I have 5 years of experience working as a business analyst in the IT-sphere. Las
     }
 
 ## Work experience and projects
+### Work
+- Nov-2019 - August-2021 - Business anayst, EPAM Systems
+- Aug-2019 - Oct-2019 - Business analyst, Appus Software
+- Jun-2017 - Aug-2019 - BA, Idea start
+### Projects
 - CV project - [CV Project](https://github.com/Viktoriia-Lotvinova/rsschool-cv).
 
 ## Education
