@@ -38,13 +38,15 @@ I have 5 years of experience working as a business analyst in the IT-sphere. Las
 - CV project - [CV Project](https://github.com/Viktoriia-Lotvinova/rsschool-cv).
 
 ## Education
-### Kharkiv National University of Radio Electronics, Ukraine, Kharkiv
+### University 
+#### Kharkiv National University of Radio Electronics, Ukraine, Kharkiv
 - 2018 – 2020 • Master degree in Management of Financial and
 Economic Security
 - 2014 – 2018 • Bachelor degree in Economic Cybernetics
-### W3Schools (HTML and CSS)
-### Learn JS basic ( learnjavascript.ru)
-### RS Schools ( FE. Stage 0)
+### Courses
+- W3Schools (HTML and CSS)
+- Learn JS basic ( learnjavascript.ru)
+- RS Schools ( FE. Stage 0)
 
 ## Languages
 - English (B2+)
