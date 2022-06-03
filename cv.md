@@ -41,3 +41,7 @@ Economic Security
 ### Learn JS basic ( learnjavascript.ru)
 ### RS Schools ( FE. Stage 0)
 
+## Languages
+- English (B2+)
+- Ukrainian (native)
+- Russian (native)
