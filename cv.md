@@ -3,16 +3,17 @@
 ## Contact information
 - Email: lotvinovavita17@gmail.com
 - Skype: lotvinovavita17
-- Discourd (rs-school server): Vee(@Viktoriia-Lotvinova)
+- Discord (rs-school server): Vee(@Viktoriia-Lotvinova)
 - LinkedIn: Viktoriia Lotvinova
 
 ## Short information
-I have 5 years of experience working as a business analyst in the IT-sphere. Last two years I worked in a big international company EPAM, but I decided to switch my career path and become a FE developer.
+I have 5 years of experience working as a business analyst in the IT-sphere. Last two years I worked in a big international company, but I decided to switch my career path and become a FE developer. I found out that the front-end was the most exciting part and started learning JS. Currently, my plan is to become a junior front-end developer and further grow as a FE dev. 
 
 ## Skills and Proficiency:
-- HTML5, CSS3
+- HTML5, CSS
+- SCSS
 - JavaScript Basics
-- Git, GitHub
+- Git
 - VS Code
 - Adobe Photoshop, Figma, Avocode
 
@@ -51,7 +52,7 @@ Economic Security
 
 ### Courses
 - W3Schools (HTML and CSS)
-- Learn JS basic ( learnjavascript.ru)
+- JS basic ( learnjavascript.ru)
 - RS Schools ( FE. Stage 0)
 
 ## Languages
